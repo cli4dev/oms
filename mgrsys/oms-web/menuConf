@@ -1,0 +1,26 @@
+--------------------其他------------------
+下游货架	oms/down/shelf
+产品线	oms/product/line
+发货结果查询记录表	vds/order/query
+渠道错误码	vds/channel/error/code
+字典表	dds/dictionary/info
+发货异常订单记录表	vds/order/exp
+订单发货表	oms/order/delivery
+账户信息	beanpay/account/info
+上游货架	oms/up/shelf
+下游商品	oms/down/product
+发货订单信息表	vds/order/info
+账户余额变动信息	beanpay/account/record
+上游退货信息表	oms/refund/up/return
+发货通知记录表	vds/order/notify
+退款记录	oms/refund/info
+上游商品	oms/up/product
+上游渠道	oms/up/channel
+生命周期记录表	lcs/life/time
+订单通知表	oms/notify/info
+发货人工审核表	oms/audit/info
+渠道基本信息	vds/channel/info
+下游渠道	oms/down/channel
+订单记录	oms/order/info
+任务表	tsk/system/task
+省市信息	oms/canton/info
